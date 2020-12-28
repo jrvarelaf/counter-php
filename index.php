@@ -43,9 +43,9 @@ function count_visitors(){
         </p>
 
         <p class="how">
-	Files avaliable here: <a href="http://">ENLACE AL CODIGO</a>
+	<a href="https://myhub.page/counter.php">You can see it working HERE</a>
         <br />
-        Visit my Github page: <a href="http://">jrcode.github.com</a> 
+        <a href="https://github.com/jrvarelaf">Visit my Github</a> 
         </p>
     </div>
 </body>
